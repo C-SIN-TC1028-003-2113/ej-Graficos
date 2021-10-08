@@ -1,7 +1,15 @@
-## Ejercicio - Plantilla para prácticas
+## Ejemplo - Gráficos básicos en Python
 
-- Genera un repositorio en tu Contexto Personal a partir de este repositorio plantilla, dando clic en el botón ```Use this template```.
+Diversos scripts con ejemplos de programación para gráficos:
+- Gráfico de líneas
+- Gráfico de barras
+- Gráfico multilínea
 
-- Realiza copias del ejercicio base que se te proporciona para crear tus propios proyectos y practicar Python duplicando en tu IDE la carpeta ```assignments/00HelloWorld```.
+El resultado de la ejecución de cada script es un archivo de imagen .png
 
-**NOTA:** Esta plantilla **no está diseñada para pruebas locales ni para Autograding**.
+## Setup (obligatorio)
+```
+pip  install matplotlib
+```
+
+**NOTA:** Este repositorio **no está diseñado para pruebas locales ni para Autograding**.
